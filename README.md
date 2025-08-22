@@ -3,21 +3,23 @@
 ## Project Description
 Scribble is a fun and interactive multiplayer drawing and guessing game where players take turns drawing an assigned word while others try to guess it. Compete with friends in a fast-paced game that challenges your creativity and word-guessing skills!
 
-## Screenshots
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/ad771d5b-38c7-4c32-a8c7-67f10f818ced" width="250px" height="450px" style="object-fit: cover; margin: 5px;" />
-  <img src="https://github.com/user-attachments/assets/97196193-ca8a-47e3-8d93-bf0b500ff416" width="250px" height="450px" style="object-fit: cover; margin: 5px;" />
-  <img src="https://github.com/user-attachments/assets/9369bb61-7f43-4f1c-8c7e-b439c8576b11" width="250px" height="450px" style="object-fit: cover; margin: 5px;" />
-</div>
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/314a9245-6a4f-4ad5-a56d-7ac5af7d2a37" width="250px" height="450px" style="object-fit: cover; margin: 5px;" />
-  <img src="https://github.com/user-attachments/assets/8714749b-8349-44ce-9bbe-19e6b281918f" width="250px" height="450px" style="object-fit: cover; margin: 5px;" />
-  <img src="https://github.com/user-attachments/assets/506f0277-61a9-449a-bef4-06e45b5955c0" width="250px" height="450px" style="object-fit: cover; margin: 5px;" />
-</div>
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/a1edb8b4-6d26-41ad-aac1-e88135d1887d" width="250px" height="450px" style="object-fit: cover; margin: 5px;" />
-  <img src="https://github.com/user-attachments/assets/6b381ff2-cdde-4bdf-9b0c-6eb5e6b5ed3f" width="250px" height="450px" style="object-fit: cover; margin: 5px;" />
-</div>
+## **Screenshots**
+
+
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/ad771d5b-38c7-4c32-a8c7-67f10f818ced" width="15%" />
+  <img src="https://github.com/user-attachments/assets/97196193-ca8a-47e3-8d93-bf0b500ff416" width="15%" />
+  <img src="https://github.com/user-attachments/assets/9369bb61-7f43-4f1c-8c7e-b439c8576b11" width="15%" />
+  <img src="https://github.com/user-attachments/assets/314a9245-6a4f-4ad5-a56d-7ac5af7d2a37" width="15%" />
+</p>  
+
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/8714749b-8349-44ce-9bbe-19e6b281918f" width="15%" />
+  <img src="https://github.com/user-attachments/assets/506f0277-61a9-449a-bef4-06e45b5955c0" width="15%" />
+  <img src="https://github.com/user-attachments/assets/a1edb8b4-6d26-41ad-aac1-e88135d1887d" width="15%" />
+  <img src="https://github.com/user-attachments/assets/6b381ff2-cdde-4bdf-9b0c-6eb5e6b5ed3f" width="15%" />
+</p>  
+
 
 ## Hosted URL
 Download the latest APK and start playing! 🎮  

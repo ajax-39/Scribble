@@ -61,7 +61,7 @@ Download the latest APK and start playing! 🎮
 * **Flutter_colorpicker:** For color palette implementation
 
 ## Thought Behind the Project
-Scribble was designed to bring people together through creativity and fun. In today's digital world, we wanted to create an engaging multiplayer experience that combines artistic expression with word games. The project aims to provide a simple yet addictive gameplay experience that can be enjoyed by players of all ages. The real-time nature of the game promotes quick thinking and creativity, while the social aspect encourages friendly competition and interaction.
+Scribble is a real-time, cross-platform multiplayer application engineered to deliver a highly responsive and synchronized user experience. By integrating low-latency, bidirectional WebSocket communication with an optimized custom rendering engine, the architecture ensures consistent state management across distributed clients. The system is designed to efficiently handle concurrent event streams—simultaneously processing continuous canvas stroke coordinates and evaluating real-time text inputs—to provide a seamless, performant, and engaging multiplayer environment.
 
 ## Local Setup
 
